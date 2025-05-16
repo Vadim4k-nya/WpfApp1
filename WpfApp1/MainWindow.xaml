@@ -62,8 +62,8 @@
             </StackPanel>
         </GroupBox>
 
-        <Button Content="Сохранить выбор" Name="send_button" Grid.Column="1" Grid.Row="1" Margin="50,10,50,10" FontWeight="Bold" Foreground="#3D4653" Background="#8E9F60"/>
-        <Button Content="Отменить выбор" Name="drop_button"  Grid.Column="2" Grid.Row="1" Margin="50,10,50,10" FontWeight="Bold" Foreground="#3D4653" Background="#FFAF5D44"/>
+        <Button Content="Сохранить выбор" Name="send_button" Grid.Column="1" Grid.Row="1" Margin="25,10,25,10" FontWeight="Bold" Foreground="#3D4653" Background="#8E9F60"/>
+        <Button Content="Отменить выбор" Name="drop_button"  Grid.Column="2" Grid.Row="1" Margin="25,10,25,10" FontWeight="Bold" Foreground="#3D4653" Background="#FFAF5D44"/>
 
         <GroupBox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="10,10,10,10">
             <WrapPanel Margin="0,5,0,0">
